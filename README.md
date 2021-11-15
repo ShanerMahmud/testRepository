@@ -23,3 +23,11 @@ For real
 3. *Third item*
 
 > So you see this is the way you do lists and blockquotes etc.
+
+## Copied from StackOverflow
+> #### The quarterly results look great!
+>
+> - Revenue was off the chart.
+> - Profits were higher than ever.
+>
+>  *Everything* is going according to **plan**.
