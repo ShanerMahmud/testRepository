@@ -18,8 +18,8 @@ For real
 - **third item**
 
 ### Ordered List 
-- __First item__
-- Second item
-- *Third item*
+1. __First item__
+2. Second item
+3. *Third item*
 
 > So you see this is the way you do lists and blockquotes etc.
