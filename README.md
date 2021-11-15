@@ -11,3 +11,15 @@ Opdracht 2
 For real
 
 ### for real
+
+#### Unordered List
+- first item
+- second item
+- **third item**
+
+### Ordered List 
+- __First item__
+- Second item
+- *Third item*
+
+> So you see this is the way you do lists and blockquotes etc.
