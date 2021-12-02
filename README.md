@@ -31,3 +31,12 @@ For real
 > - Profits were higher than ever.
 >
 >  *Everything* is going according to **plan**.
+
+# Nkaaay
+Apperently I have Git now... yaay me -.-
+- I installed GitHub Desktop, which didn't have Git
+- So then I installed Git
+- Finally I restarted my PC
+
+> Now I pray to God that everything went alright. Copying is an act of love. 
+> Copyheart.org
